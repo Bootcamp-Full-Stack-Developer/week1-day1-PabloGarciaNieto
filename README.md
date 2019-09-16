@@ -19,7 +19,7 @@ A continuación se hace una lista de observaciones que hacen referencia a errore
 
 ## CSS: Ejercicio 1
 
-* Los acrónimos no tienen un aspecto correcto porque se ha definido un selector erróneo.
+* Con el código HTML revisado, aplicar nuevamente los estilos siguiendo el enunciado de cada uno.
 
 ---
 
