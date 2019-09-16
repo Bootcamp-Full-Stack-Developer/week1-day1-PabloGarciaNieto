@@ -26,14 +26,16 @@ A continuación se hace una lista de observaciones que hacen referencia a errore
 ## HTML: Ejercicio 2
 
 * En ocasiones re repiten errores del ejercicio 1.
-* Es posible que algunos haya usado un editor visual?
 * Existen atributos en desuso, como el caso de `border="1"`. Se recuerda que todo lo que es presentación ha de ser llevado a CSS.
 * En algunas imágenes falta el atributo `alt` , mientras que en otras se ha aplicado un texto alternativo no acorde con la información que transmite la imagen.
 * El elemento `<caption>` no se indica en la posición correcta.
 * Una tabla está formada por filas `<tr>` y celdas `<th>` o `<td>`. Cuando creamos una cabecera de tabla o un pie de tabla, hemos de crear al menos una fila.
 * No se ha marcado con el tag correcto `<code>` los fragmentos de código.
 * El elemento `<tbody>` es un elemento que ha de tener un cierre: `</tbody>`.
-* No se posiciona correctamente el tag `<tfoot>` dentro de la estructura de tabla. Además de: no se ha declarado una fila en su interior, se ha definido una celda de encabezado en lugar de dato, `rowspan=“7”` es incorrecto en cuanto solo hay 4 columnas.
+* No se posiciona correctamente el tag `<tfoot>` dentro de la estructura de tabla. Además de:
+  * no se ha declarado una fila en su interior;
+  * se ha definido una celda de encabezado en lugar de dato;
+  * `rowspan=“7”` es incorrecto en cuanto solo hay 4 columnas.
 
 ## CSS: Ejercicio 2
 
